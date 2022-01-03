@@ -25,7 +25,7 @@ environment:
 
   # Mail credentials - for error notifications
   mail_user:
-    secure: brianary@gmail.com #https://ci.appveyor.com/tools/encrypt
+    secure: FwQtjfA+sCtKxEQ1873v0BHLfxbI8Xd0WC9GqciRFgA= #https://ci.appveyor.com/tools/encrypt
   mail_pass:
     secure: Ru9kZX4NYP/g5Aq/I3WsYg== #https://ci.appveyor.com/tools/encrypt
   mail_server: smtp.gmail.com
