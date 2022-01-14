@@ -1,6 +1,0 @@
-﻿
-VERIFICATION
-Verification is intended to assist the Chocolatey moderators and community
-in verifying that this package's contents are trustworthy.
-
-SHA256 CE62119D96868DEF873669A5C507E9825274219DDDF54EB06602CCFFD470EB59
