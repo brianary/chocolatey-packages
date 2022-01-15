@@ -1,5 +1,5 @@
 [![](https://ci.appveyor.com/api/projects/status/github/brianary/chocolatey-packages?svg=true)](https://ci.appveyor.com/project/brianary/chocolatey-packages)
-[Update status](https://gist.github.com/brianary/YOUR_GIST_ID_HERE)
+[Update status](https://gist.github.com/brianary/2bf9b113bc08f5a6b72330fa68e2206a)
 [![](http://transparent-favicon.info/favicon.ico)](#)
 [chocolatey/brianary](https://chocolatey.org/profiles/brianary)
 
