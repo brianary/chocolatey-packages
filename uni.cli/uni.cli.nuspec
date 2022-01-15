@@ -3,12 +3,12 @@
     <metadata>
         <id>uni.cli</id>
         <version>2.4.0.20220114</version>
-        <packageSourceUrl>https://github.com/brianary/chocolatey-packages</packageSourceUrl>
+        <packageSourceUrl>https://github.com/brianary/au-packages/</packageSourceUrl>
         <owners>Brian Lalonde</owners>
         <title>uni: Unicode database command-line query tool</title>
         <authors>Martin Tournoij (arp242), et al.</authors>
         <projectUrl>https://github.com/arp242/uni/</projectUrl>
-        <!--<iconUrl>http://rawcdn.githack.com/__REPLACE_YOUR_REPO__/master/icons/uni.png</iconUrl>-->
+        <iconUrl>http://rawcdn.githack.com/brianary/au-packages/master/icons/uni.png</iconUrl>
         <copyright>Copyright © 2018-2019 Martin Tournoij</copyright>
         <licenseUrl>https://github.com/arp242/uni/blob/master/LICENSE</licenseUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
