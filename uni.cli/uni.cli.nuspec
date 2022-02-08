@@ -4,7 +4,7 @@
         <id>uni.cli</id>
         <version>2.4.0.20220114</version>
         <packageSourceUrl>https://github.com/brianary/au-packages/</packageSourceUrl>
-        <owners>Brian Lalonde</owners>
+        <owners>brianary</owners>
         <title>uni: Unicode database command-line query tool</title>
         <authors>Martin Tournoij (arp242), et al.</authors>
         <projectUrl>https://github.com/arp242/uni/</projectUrl>
