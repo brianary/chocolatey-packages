@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
     <metadata>
         <id>uni.cli</id>
-        <version>2.4.0.202202072100</version>
+        <version>2.4.0.20220208</version>
         <packageSourceUrl>https://github.com/brianary/au-packages/</packageSourceUrl>
         <owners>brianary</owners>
         <title>uni: Unicode database command-line query tool</title>
@@ -11,6 +11,7 @@
         <iconUrl>https://rawcdn.githack.com/brianary/au-packages/f92451b7c402455dfd22ed38be03dbab51e240ed/uni.cli/icons/uni-logo.png</iconUrl>
         <copyright>Copyright © 2018-2019 Martin Tournoij</copyright>
         <licenseUrl>https://github.com/arp242/uni/blob/master/LICENSE</licenseUrl>
+        <releaseNotes>https://github.com/arp242/uni/releases/tag/v2.4.0</releaseNotes>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <projectSourceUrl>https://github.com/arp242/uni/</projectSourceUrl>
         <docsUrl>https://github.com/arp242/uni/blob/master/README.md</docsUrl>
