@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
     <metadata>
-        <id>uni.cli</id>
-        <version>2.4.0.20220114</version>
+        <id>uni</id>
+        <version>2.4.0</version>
         <packageSourceUrl>https://github.com/brianary/au-packages/</packageSourceUrl>
         <owners>brianary</owners>
         <title>uni: Unicode database command-line query tool</title>
         <authors>Martin Tournoij (arp242), et al.</authors>
         <projectUrl>https://github.com/arp242/uni/</projectUrl>
-        <iconUrl>https://rawcdn.githack.com/brianary/au-packages/f92451b7c402455dfd22ed38be03dbab51e240ed/uni.cli/icons/uni-logo.png</iconUrl>
+        <iconUrl>https://rawcdn.githack.com/brianary/au-packages/01cc7b18f9d99375ddbc2acd897225ceb676e86a/uni/icons/uni-logo.png</iconUrl>
         <copyright>Copyright © 2018-2019 Martin Tournoij</copyright>
         <licenseUrl>https://github.com/arp242/uni/blob/master/LICENSE</licenseUrl>
         <releaseNotes>https://github.com/arp242/uni/releases/tag/v2.4.0</releaseNotes>
@@ -18,8 +18,7 @@
         <bugTrackerUrl>https://github.com/arp242/uni/issues</bugTrackerUrl>
         <tags>uni unicode codepoint</tags>
         <summary>uni queries the Unicode database from the commandline. It supports Unicode 14.0 (September 2021) and has good support for emojis.</summary>
-        <description><![CDATA[uni queries the Unicode database from the commandline. It supports Unicode 14.0 (September 2021) and has good support for emojis.
-]]></description>
+        <description><![CDATA[uni queries the Unicode database from the commandline. It supports Unicode 14.0 (September 2021) and has good support for emojis.]]></description>
     </metadata>
     <files>
         <file src="tools\**" target="tools" />

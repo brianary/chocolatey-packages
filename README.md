@@ -7,7 +7,7 @@
 Chocolatey Packages
 ===================
 
-- [uni.cli](uni.cl/) &mdash;
+- [uni](uni/) &mdash;
   uni queries the Unicode database from the commandline. It supports Unicode 14.0 (September 2021) and has good support for emojis.
 
 <!-- see https://github.com/majkinetor/au-packages-template/blob/master/README.md for basic documentation -->
