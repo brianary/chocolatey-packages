@@ -8,7 +8,7 @@
         <title>uni: Unicode database command-line query tool</title>
         <authors>Martin Tournoij (arp242), et al.</authors>
         <projectUrl>https://github.com/arp242/uni/</projectUrl>
-        <iconUrl>https://rawcdn.githack.com/brianary/au-packages/01cc7b18f9d99375ddbc2acd897225ceb676e86a/uni/icons/uni-logo.png</iconUrl>
+        <iconUrl>https://rawcdn.githack.com/brianary/au-packages/a563a5e282d67b708b85b9bdb154b472af9a2365/uni/icons/uni-logo.png</iconUrl>
         <copyright>Copyright © 2018-2019 Martin Tournoij</copyright>
         <licenseUrl>https://github.com/arp242/uni/blob/master/LICENSE</licenseUrl>
         <releaseNotes>https://github.com/arp242/uni/releases/tag/v2.4.0</releaseNotes>
