@@ -6,11 +6,11 @@ The uni.exe executable has been downloaded from their official releases page at 
 and can be verified like this:
 
 1. Download the gzip archive for Windows:
-  <https://github.com/arp242/uni/releases/download/v2.4.0/uni-v2.4.0-windows-amd64.exe.gz>
-2. Extract uni.exe from the archive.
+  <https://github.com/arp242/uni/releases/download/v2.6.0/uni-v2.6.0-windows-amd64.exe.gz>
+2. Extract uni-v2.6.0-windows-amd64.exe from the archive.
 3. You can use one of the following methods to obtain the checksum
   - Use powershell function 'Get-Filehash'
   - Use chocolatey utility 'checksum.exe'
 
   checksum type:
-  SHA256 CE62119D96868DEF873669A5C507E9825274219DDDF54EB06602CCFFD470EB59
+  SHA256 23A3F95AC2B8537DE6CB28CD8447D42607412B6691DBE92CAE2AD2CD9C8756EF
