@@ -7,12 +7,13 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      - name: Pack
-        working-directory: ./uni
-        run: choco pack uni.nuspec
       - name: Set key
         env:
           CHOCO_TOKEN: ${{ secrets.CHOCO_TOKEN }}
         run: choco apikey add -k '${{ env.CHOCO_TOKEN }}' -s https://push.chocolatey.org/
+      - name: Pack
+        working-directory: ./uni
+        run: choco pack uni.nuspec
       - name: Push
+        working-directory: ./uni
         run: choco push -s https://push.chocolatey.org/
