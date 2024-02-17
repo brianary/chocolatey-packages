@@ -15,4 +15,4 @@ jobs:
           CHOCO_TOKEN: ${{ secrets.CHOCO_TOKEN }}
         run: choco apikey add -k '${{ env.CHOCO_TOKEN }}' -s https://push.chocolatey.org/
       - name: Push
-        run: choco push
+        run: choco push -s https://push.chocolatey.org/
