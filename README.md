@@ -2,4 +2,4 @@
 =====================
 
 - [uni](uni/) &mdash;
-  uni queries the Unicode database from the commandline. It supports Unicode 15.1 (September 2023) and has good support for emojis.
+  uni queries the Unicode database from the commandline. It supports Unicode 16.0 (September 2024) and has good support for emojis.
